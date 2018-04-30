@@ -1,6 +1,6 @@
 +++
-date = 2018-04-30T21:35+08:00 # 完整格式为：yyyy-mm-ddThh:mm:ss+08:00
-title = "将 hugo 生成的静态网站托管到 netlify" 
+date = 2018-04-30T21:35:00+08:00 # 完整格式为：yyyy-mm-ddThh:mm:ss+08:00
+title = "将网站托管到 netlify" 
 slug = "hugo-netlify" #文件名为 yyyy-mm-dd-slug，所以要去掉 yyyy-mm-dd-
 categories = [
     "互联网", # Web，建议附加更具体的 tags

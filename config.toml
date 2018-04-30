@@ -59,15 +59,15 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "泰和泰（深圳）律师事务所", url = "" } ]
+  organizations = [ { name = "泰和泰（深圳）律师事务所", url = "http://www.tahota.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "choicky@qq.com"
   address = "深圳市福田区新闻路1号中电信息大厦"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  office_hours = "请提前预约"
+  phone = "177 2261 8837"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -79,7 +79,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "logo.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -104,9 +104,9 @@ enableGitInfo = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2006-01-02"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -226,22 +226,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:choicky@qq.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/choicky"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = ""
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/choicky"
 
 
 # Navigation Links
@@ -253,34 +253,34 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "首页"
   url = "#about"
-  weight = 1
+  weight = 11
 
 [[menu.main]]
-  name = "Publications"
+  name = "出版"
   url = "#publications_selected"
-  weight = 2
+  weight = 21
 
 [[menu.main]]
-  name = "Posts"
+  name = "文章"
   url = "#posts"
-  weight = 3
+  weight = 31
 
 [[menu.main]]
-  name = "Projects"
+  name = "项目"
   url = "#projects"
-  weight = 4
+  weight = 41
 
 [[menu.main]]
-  name = "Teaching"
+  name = "教学"
   url = "#teaching"
-  weight = 5
+  weight = 51
 
 [[menu.main]]
-  name = "Contact"
+  name = "联系方式"
   url = "#contact"
-  weight = 6
+  weight = 61
 
 # Taxonomies.
 [taxonomies]
@@ -292,5 +292,9 @@ enableGitInfo = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
-  languageCode = "en-us"
+# [Languages.en]
+#   languageCode = "en-us"
+  
+# Configure the Chinese version of the website.
+[Languages.zh]
+  languageCode = "zh-cn"

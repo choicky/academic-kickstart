@@ -115,7 +115,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -257,25 +257,25 @@ enableGitInfo = false
   url = "#about"
   weight = 11
 
-[[menu.main]]
-  name = "出版"
-  url = "#publications_selected"
-  weight = 21
+#[[menu.main]]
+#  name = "出版"
+#  url = "#publications_selected"
+#  weight = 21
 
-[[menu.main]]
-  name = "文章"
-  url = "#posts"
-  weight = 31
+#[[menu.main]]
+#  name = "文章"
+#  url = "#posts"
+#  weight = 31
 
-[[menu.main]]
-  name = "项目"
-  url = "#projects"
-  weight = 41
+#[[menu.main]]
+#  name = "项目"
+#  url = "#projects"
+#  weight = 41
 
-[[menu.main]]
-  name = "教学"
-  url = "#teaching"
-  weight = 51
+#[[menu.main]]
+#  name = "教学"
+#  url = "#teaching"
+#  weight = 51
 
 [[menu.main]]
   name = "联系方式"

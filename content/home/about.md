@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "南开大学，天津大学"
   institution = ""
-  year = 
+  year = ""
 
 [[education.courses]]
   course = "执业律师，专利代理人"

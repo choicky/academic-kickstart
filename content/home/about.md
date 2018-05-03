@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "互联网",
     "知识产权",
     "专利",
     "著作权",

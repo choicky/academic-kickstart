@@ -48,7 +48,7 @@ weight = 5
   year = 2013
  
 [[education.courses]]
-  course = "基于对网络技术的深刻理解，否定了对方在公证处保全的网页证据"
+  course = "基于对网络技术的深刻理解，引导和促使国家知识产权局专利复审委对网络证据的采信建立了“图文分离”原则"
   institution = ""
   year = 2013
   

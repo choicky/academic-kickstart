@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "周才淇"
-  role = "广东省涉外律师人才、知识产权专家"
+  role = "最高人民法院认定的专利诉讼代理人、广东省涉外律师人才"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "泰和泰（深圳）律师事务所", url = "http://www.tahota.com" } ]
+  organizations = [ { name = "深圳知识产权局聘请的专家", url = "http://www.szmqs.gov.cn/zscq/tzgg_55188/201803/t20180320_11373009.htm" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

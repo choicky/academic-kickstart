@@ -66,8 +66,11 @@
 - id: interests
   translation: 擅长领域
 
+- id: educations
+  translation: 教育背景
+  
 - id: education
-  translation: 工作背景
+  translation: 典型案例
 
 # Publications widget
 

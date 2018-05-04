@@ -21,6 +21,12 @@ weight = 5
     "刑事"
   ]
 
+# List your education background.
+[educations]
+  educations = [
+    "南开大学",
+    "天津大学",
+  ]
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "南开大学，天津大学"

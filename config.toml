@@ -35,7 +35,7 @@ enableGitInfo = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
-  section = [ "HTML", "RSS" ]
+  section = [ "HTML", "CSS", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/

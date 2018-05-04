@@ -25,12 +25,22 @@ weight = 5
 [[education.courses]]
   course = "南开大学，天津大学"
   institution = ""
-  year = ""
+  year = 2005
 
 [[education.courses]]
-  course = "执业律师，专利代理人"
+  course = "律师资格，专利代理人"
   institution = ""
-  year = 2008
+  year = "2006-2008"
+  
+[[education.courses]]
+  course = "Johnson Electric"
+  institution = "知识产权主管"
+  year = "2008-2011"
+
+[[education.courses]]
+  course = "在《中国发明与专利》等期刊发表封面文章"
+  institution = ""
+  year = "2011-2012"
 
 [[education.courses]]
   course = "针对深圳中级法院的判决向广东省高院申请再审，省高院裁定再审"
